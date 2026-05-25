@@ -1,0 +1,13 @@
+{
+  "generated_at": null,
+  "date": null,
+  "stats": {
+    "raw": 0,
+    "deduped": 0,
+    "filtered": 0,
+    "in_geofence": 0,
+    "new_today": 0,
+    "by_portal": {}
+  },
+  "listings": []
+}
