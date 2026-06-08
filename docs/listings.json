@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-06-07T11:01:15.229561+00:00",
-  "date": "2026-06-07",
+  "generated_at": "2026-06-08T16:59:42.095565+00:00",
+  "date": "2026-06-08",
   "stats": {
-    "raw": 188,
-    "deduped": 188,
-    "filtered": 83,
-    "in_geofence": 83,
-    "new_today": 52,
+    "raw": 173,
+    "deduped": 173,
+    "filtered": 76,
+    "in_geofence": 72,
+    "new_today": 11,
     "by_portal": {
       "Argenprop": 46,
-      "Properati": 20,
-      "Ferrero": 17
+      "Properati": 23,
+      "ZonaProp": 3
     },
     "reject_reasons": {
-      "beds:2": 40,
-      "price_out_of_range:140000": 4,
-      "price_out_of_range:90000": 4,
+      "beds:2": 38,
       "baths:1": 3,
+      "price_out_of_range:300000": 3,
       "price_out_of_range:130000": 3,
-      "price_out_of_range:105000": 3,
       "reject_phrase:casa a reciclar": 2,
-      "price_out_of_range:300000": 2,
+      "price_out_of_range:140000": 2,
       "price_out_of_range:135000": 2,
+      "price_out_of_range:320000": 2,
       "price_out_of_range:75000": 2,
       "price_out_of_range:115000": 2,
       "price_out_of_range:95000": 2,
-      "price_out_of_range:93000": 2,
-      "price_out_of_range:290000": 2,
-      "price_out_of_range:440000": 1
+      "price_out_of_range:90000": 2,
+      "price_out_of_range:440000": 1,
+      "price_out_of_range:395000": 1,
+      "price_out_of_range:280000": 1
     }
   },
   "listings": [
@@ -52,7 +52,7 @@
       "lat": -34.8467077,
       "lng": -58.524648,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_3bcb088529",
@@ -75,7 +75,7 @@
       "lat": -34.6235869,
       "lng": -58.4880075,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_b36d54a80c",
@@ -98,7 +98,7 @@
       "lat": -34.6478364,
       "lng": -58.656508,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_44d959712c",
@@ -121,7 +121,7 @@
       "lat": -34.7946919,
       "lng": -58.2664799,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_4c3d1396cf",
@@ -144,7 +144,7 @@
       "lat": -34.8479157,
       "lng": -58.5238626,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_9dd3fd101b",
@@ -167,7 +167,7 @@
       "lat": -38.7116559,
       "lng": -62.3045411,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_d027c5cccc",
@@ -190,7 +190,7 @@
       "lat": -34.6477456,
       "lng": -58.6481765,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_80019d7f0d",
@@ -213,7 +213,7 @@
       "lat": -34.6061098,
       "lng": -58.3978287,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_12a039a4e2",
@@ -236,7 +236,7 @@
       "lat": null,
       "lng": null,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_c0e3846ce9",
@@ -259,7 +259,7 @@
       "lat": -34.669952,
       "lng": -58.37852,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_532f7bec05",
@@ -282,7 +282,7 @@
       "lat": -34.6171627,
       "lng": -58.490378,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_c8e806527e",
@@ -305,7 +305,7 @@
       "lat": -34.5476271,
       "lng": -58.4654113,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_c609da273b",
@@ -328,7 +328,7 @@
       "lat": -34.6538729,
       "lng": -58.6515744,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_a21669f1d7",
@@ -351,7 +351,7 @@
       "lat": -34.601905,
       "lng": -58.4576722,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_df42f14521",
@@ -374,7 +374,7 @@
       "lat": -34.6819197,
       "lng": -58.7565326,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_efba6acd82",
@@ -397,7 +397,7 @@
       "lat": -34.6493349,
       "lng": -58.6631137,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_b94d508747",
@@ -420,7 +420,7 @@
       "lat": null,
       "lng": null,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_ffd667ddc9",
@@ -443,7 +443,7 @@
       "lat": -34.617186,
       "lng": -58.5165677,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_dd137e3b40",
@@ -466,7 +466,7 @@
       "lat": null,
       "lng": null,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_ecfd78ee4b",
@@ -489,7 +489,7 @@
       "lat": -34.7709246,
       "lng": -58.389386,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_84874d23d4",
@@ -512,7 +512,7 @@
       "lat": -34.7595816,
       "lng": -58.40974,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_6f68fa7618",
@@ -535,7 +535,7 @@
       "lat": -34.732649,
       "lng": -58.571656,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_a8ff7e24ac",
@@ -558,7 +558,7 @@
       "lat": -34.5660107,
       "lng": -58.4368761,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_02a8fdfc82",
@@ -581,7 +581,7 @@
       "lat": null,
       "lng": null,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_535472da61",
@@ -604,7 +604,7 @@
       "lat": -34.7608603,
       "lng": -58.4334701,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_fab1eb6fbd",
@@ -627,7 +627,7 @@
       "lat": -34.827826,
       "lng": -58.457408,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_20b67cc669",
@@ -650,7 +650,7 @@
       "lat": -34.683893,
       "lng": -58.509919,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_731737360d",
@@ -673,7 +673,7 @@
       "lat": -33.893277,
       "lng": -60.5846515,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_2029072886",
@@ -696,7 +696,7 @@
       "lat": -35.8469634,
       "lng": -59.036318,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_2fd52c842d",
@@ -719,7 +719,7 @@
       "lat": -34.6518969,
       "lng": -58.6666186,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_75fb17aad0",
@@ -742,7 +742,7 @@
       "lat": -34.672347,
       "lng": -58.50565,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_feccd7211f",
@@ -765,7 +765,7 @@
       "lat": -34.5474501,
       "lng": -58.4650392,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_62c6399a0a",
@@ -788,7 +788,7 @@
       "lat": -34.647343,
       "lng": -58.6431656,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_431150ec23",
@@ -811,7 +811,7 @@
       "lat": -34.6604988,
       "lng": -58.7321695,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_ea55bd8109",
@@ -834,7 +834,7 @@
       "lat": -34.6531121,
       "lng": -58.6567135,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_691908baa1",
@@ -857,7 +857,7 @@
       "lat": -34.5918411,
       "lng": -58.3899511,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_54ef010405",
@@ -880,7 +880,7 @@
       "lat": -36.8888102,
       "lng": -60.3503934,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_4062165234",
@@ -903,7 +903,7 @@
       "lat": -34.6339421,
       "lng": -58.4153276,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_b1778c1d13",
@@ -923,10 +923,10 @@
       "state": "Bueno",
       "desc": "+ 34 Ver más fotos 1 /42 Visto 516 USD 270.000 Avenida Álvarez Jonte 1300 Casa en Venta en Castelar Norte, Castelar 245  m² cubie. 3 dorm. 30 años Casa en Venta, Cinco Ambientes con Pileta y Parrilla, Castelar Norte ¡Oportunidad imperdible!\nHermosa casa en venta ubicada en álvarez jonte al 1300, castelar norte.\n\nCaracterísticas a tener en cuenta:\n~ posee dos plantas.\n~ Cinco ambientes.\n~ La planta",
       "image": "https://www.argenprop.com/static-content/27451291/b8e41901-0300-49b9-899c-573ecb387092_u_small.jpg",
-      "lat": -34.6292564,
-      "lng": -58.5160242,
+      "lat": -34.6333255,
+      "lng": -58.5207586,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_a3a7e6e5f6",
@@ -949,7 +949,7 @@
       "lat": -34.641539,
       "lng": -58.4714792,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_c90bcb9eac",
@@ -972,7 +972,7 @@
       "lat": -34.6408,
       "lng": -58.6640245,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_f138d39612",
@@ -995,7 +995,7 @@
       "lat": -34.6286978,
       "lng": -58.4581912,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_f18a0b9a17",
@@ -1018,7 +1018,7 @@
       "lat": -34.738372,
       "lng": -58.252097,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_1f249901fe",
@@ -1041,7 +1041,7 @@
       "lat": -34.6375907,
       "lng": -58.6573924,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_6a537d1bb0",
@@ -1064,7 +1064,7 @@
       "lat": -34.681654,
       "lng": -58.616442,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "argenprop_ae9c55de3e",
@@ -1087,7 +1087,7 @@
       "lat": null,
       "lng": null,
       "added": "",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "properati_9a0b2f977d",
@@ -1320,13 +1320,13 @@
       "is_new": false
     },
     {
-      "id": "properati_6a60ed5ab3",
+      "id": "properati_2e54912dce",
       "title": "Casa en venta en Castelar",
       "address": "",
       "zona": "Castelar Norte",
       "portal": "Properati",
-      "url": "https://www.properati.com.ar/detalle/14032-32-8dc5-bb33ea0d73f9-19db2cf-bb0f-7379",
-      "price": 200000,
+      "url": "https://www.properati.com.ar/detalle/14032-32-5f3b-b69356885f0a-740c18ca-8f7c-3a87",
+      "price": 185000,
       "beds": null,
       "baths": null,
       "garage": null,
@@ -1335,43 +1335,20 @@
       "pb_bed": false,
       "pb_bath": false,
       "state": "Bueno",
-      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono EDUARDO J. CARFI Propiedades +54114624",
-      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTlkYjJhZi04ZGE1LTczNTktYmFlZi1iYjMzZWEwZDczZDkvZTQxZmQ4YWY5NmQ5YmU0ZGEwZWFmMDM5NmU1MDAzYTFhYWIzYjE0MGI0NTRhOThkZjk1MTVlMzlhYWQyODU0MS5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Bonardi Propiedades 4661-5878 Más info",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci83NDBjMThhYS01ZjFiLTNhNjctOGY1Yy1iNjkzNTY4ODVlZWEvOWIyZTM3YThlYmZkMGRjMTYyN2I3NTkwNTVlM2M3OGFlZjQ0MWY4ZTQ1MjEzMGRkMzFiNDgwMmVhZjQ3MmY1ZC5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
       "lat": null,
       "lng": null,
       "added": "",
       "is_new": true
     },
     {
-      "id": "properati_79f8820e7e",
+      "id": "properati_34200a655a",
       "title": "Casa en venta en Castelar",
       "address": "",
       "zona": "Castelar Norte",
       "portal": "Properati",
-      "url": "https://www.properati.com.ar/detalle/14032-32-cd63-a693b7a00a22-19e97a8-9cef-7b65",
-      "price": 250000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono RE/MAX Class III +541154861321 Más inf",
-      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllOTc4OC1jZDQzLTdiNDUtOWNjZi1hNjkzYjdhMDBhMDIvMDJjMGM3NjgzYzBiYjBhMzdiY2YzZjY4Nzc1ZGVkMWMwMDZmOTY0YTJhZDRiZjU2MjQyODE0MDY1N2ViODQ5MS5qcGciLCJicmFuZCI6InByb3BlcmF0aSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbCwicmVzaXplIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NDgwLCJmaXQiOiJjb3ZlciJ9fX0=",
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": true
-    },
-    {
-      "id": "properati_59f20aba2a",
-      "title": "Casa en venta en Castelar",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Properati",
-      "url": "https://www.properati.com.ar/detalle/14032-32-c852-4cca30c6186-a8bc506c-abea-3c53",
+      "url": "https://www.properati.com.ar/detalle/14032-32-65d-3166b08256f6-b830f68c-ae0c-3a2c",
       "price": 170000,
       "beds": null,
       "baths": null,
@@ -1381,20 +1358,20 @@
       "pb_bed": false,
       "pb_bath": false,
       "state": "Bueno",
-      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Viviana Oddone propiedades 1156203801 ",
-      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci9hOGJjNTA0Yy1jODMyLTNjMzMtYWJjYS0wNGNjYTMwYzYxNjYvYmFhZTM4NTNhOGIzNzExOWY3NmM1ZWY5NDQ2NjczOTQ4YWY4NWFmYTc2MjU2MzU4YmJlYjA0NTNkMzU0Y2JmNy5wbmciLCJicmFuZCI6InByb3BlcmF0aSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbCwicmVzaXplIjp7IndpZHRoIjo2NTIsImhlaWdodCI6NDgwLCJmaXQiOiJjb3ZlciJ9fX0=",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Bonardi Propiedades 4661-5878 Más info",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci9iODMwZjY2Yy0wNjNkLTNhMGMtYWRlYy0zMTY2YjA4MjU2ZDYvOTBiYzBhZGZhOWZlZmU5NjFjNjYyMGY1Yzk2MWM2NTFlMGFmNmNhZDc4ZjJhOWU2Y2ZkZWFmM2QwMzlmMTJmMS5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
       "lat": null,
       "lng": null,
       "added": "",
       "is_new": true
     },
     {
-      "id": "properati_b86d7f69b6",
+      "id": "properati_a9bed62ab9",
       "title": "Casa en venta en Castelar",
       "address": "",
       "zona": "Castelar Norte",
       "portal": "Properati",
-      "url": "https://www.properati.com.ar/detalle/14032-32-7022-82b84925a3b8-26c88354-810f-31d4",
+      "url": "https://www.properati.com.ar/detalle/14032-32-a6bd-b7e7b87259f1-19e44fc-8ca7-7e71",
       "price": 180000,
       "beds": null,
       "baths": null,
@@ -1404,21 +1381,21 @@
       "pb_bed": false,
       "pb_bath": false,
       "state": "Bueno",
-      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Susana Pereyra de Roig 541151252731 Má",
-      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8yNmM4ODMzNC03MDAyLTMxYjQtODBlZi04MmI4NDkyNWEzOTgvMmFlOWY1YWZkNDJlNGIzMzA4OTk2N2QzMjI5MDFmYWVhNTZkMGFjOWVhNjFjYmU4ZmU2ZTc3NGQxNmQxMGFiOC5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono EDUARDO J. CARFI Propiedades +54114624",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllNDRkYy1hNjlkLTdlNTEtOGM4Ny1iN2U3Yjg3MjU5ZDEvYTdlNjM5N2VjODY5N2FhN2UyNWMzZjRlNzhhOTY1MDFjYTNlODkwNjk0MDc3MDIyMDA2ZDdlMjRhMmZhNmVkYi5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
       "lat": null,
       "lng": null,
       "added": "",
       "is_new": true
     },
     {
-      "id": "properati_37fc91743a",
+      "id": "properati_c42e99e1e8",
       "title": "Casa en venta en Castelar",
       "address": "",
       "zona": "Castelar Norte",
       "portal": "Properati",
-      "url": "https://www.properati.com.ar/detalle/14032-32-d931-8e158302c154-19e7187-b5e1-7f57",
-      "price": 218000,
+      "url": "https://www.properati.com.ar/detalle/14032-32-4e3a-3b46994dceb8-19e46b6-9784-73ee",
+      "price": 275000,
       "beds": null,
       "baths": null,
       "garage": null,
@@ -1427,8 +1404,100 @@
       "pb_bed": false,
       "pb_bath": false,
       "state": "Bueno",
-      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Gastón Escriña Propiedades +5411537290",
-      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllNzE2Ny1kOTExLTdmMzctYjVjMS04ZTE1ODMwMmMxMzQvMzhjYzJhNTdkOTU2ZDc5MjI5ZDMxMmUwZjlhYjg0NmMwYWZkZmU5NzAyZTk4ZTNkNzFiMzEzZWEwYmMwZTc1ZS5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono EDUARDO J. CARFI Propiedades +54114624",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllNDY5Ni00ZTFhLTczY2UtOTc2NC0zYjQ2OTk0ZGNlOTgvYjZjZTFiYmUwNzMxZTUyZTU4NWQ3M2NiMDdhODVkZmNhNmRmYWE3MTRmOWQ4MDk3M2U3YTdjNzEyNzZkYjc1My5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "lat": null,
+      "lng": null,
+      "added": "",
+      "is_new": true
+    },
+    {
+      "id": "properati_197b9fae14",
+      "title": "Casa en venta en Castelar",
+      "address": "",
+      "zona": "Castelar Norte",
+      "portal": "Properati",
+      "url": "https://www.properati.com.ar/detalle/14032-32-3c09-f743d3ca6be1-19e4332-88c0-733b",
+      "price": 270000,
+      "beds": null,
+      "baths": null,
+      "garage": null,
+      "sup_total": null,
+      "sup_cub": null,
+      "pb_bed": false,
+      "pb_bath": false,
+      "state": "Bueno",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Marchese Propiedades +541154349300 Más",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllNDMxMi0zYmU5LTczMWItODhhMC1mNzQzZDNjYTZiYzEvNjkyMDQwOTg1NjAyN2NiYjA2ZWZhYzk3ODkxZGY3MmJhMmNhNmZjNDE2NzYxMGRmNGNhZWM1YzQ1ZTVmOGEyYS5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "lat": null,
+      "lng": null,
+      "added": "",
+      "is_new": true
+    },
+    {
+      "id": "properati_31e8ede6f4",
+      "title": "Casa en venta en Castelar",
+      "address": "",
+      "zona": "Castelar Norte",
+      "portal": "Properati",
+      "url": "https://www.properati.com.ar/detalle/14032-32-209c-6830bcae9d75-19e61ed-b92b-7238",
+      "price": 250000,
+      "beds": null,
+      "baths": null,
+      "garage": null,
+      "sup_total": null,
+      "sup_cub": null,
+      "pb_bed": false,
+      "pb_bath": false,
+      "state": "Bueno",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono EDUARDO J. CARFI Propiedades +54114624",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTllNjFjZC0yMDdjLTcyMTgtYjkwYi02ODMwYmNhZTlkNTUvZjNiNjIwZThmOWU5NWQ2NWNkOTlmYjJlMWE0NDFlNWQxMzA0MzRlNmJmM2I5MjUxYTBhYzE1MGE4YzFmZWIyNi5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "lat": null,
+      "lng": null,
+      "added": "",
+      "is_new": true
+    },
+    {
+      "id": "properati_023b012628",
+      "title": "Casa en venta en Castelar",
+      "address": "",
+      "zona": "Castelar Norte",
+      "portal": "Properati",
+      "url": "https://www.properati.com.ar/detalle/14032-32-5c3-e95f7b4cab14-18f0c00-9eaf-7d31",
+      "price": 220000,
+      "beds": null,
+      "baths": null,
+      "garage": null,
+      "sup_total": null,
+      "sup_cub": null,
+      "pb_bed": false,
+      "pb_bath": false,
+      "state": "Bueno",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Alvarez Propiedades. 5491136982126 Más",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMThmMGJlMC0wNWEzLTdkMTEtOWU4Zi1lOTVmN2I0Y2FhZjQvZDA1NDQ4ZTM0NTNjMjcwMDI2OGJiNTA2NjZjMWVhYTJiZDZjYzJhZmU3YmUyYjMxYjcxZWQwNGQyMWRiOWViZS5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
+      "lat": null,
+      "lng": null,
+      "added": "",
+      "is_new": true
+    },
+    {
+      "id": "properati_401385bd51",
+      "title": "Casa en venta en Castelar",
+      "address": "",
+      "zona": "Castelar Norte",
+      "portal": "Properati",
+      "url": "https://www.properati.com.ar/detalle/14032-32-9b69-90375520f86-19d8c1f-925d-7213",
+      "price": 270000,
+      "beds": null,
+      "baths": null,
+      "garage": null,
+      "sup_total": null,
+      "sup_cub": null,
+      "pb_bed": false,
+      "pb_bath": false,
+      "state": "Bueno",
+      "desc": "Casa en venta en Castelar | PROPERATI Venta Alquiler PUBLICAR Ver teléfono Para ver el teléfono del anunciante, primero necesitamos tu email y así le transmitiremos tu interés. Correo electrónico * Campo obligatorio Enviar Al enviar este formulario, usted acepta que Properati comparta sus datos con el propietario, agente, desarrollador o portal de propiedad de esta propiedad. Para obtener más información, consulte nuestra Política de privacidad Ver teléfono Marchese Propiedades +541154349300 Más",
+      "image": "https://img.properati.com/eyJidWNrZXQiOiJwcmQtbGlmdWxsY29ubmVjdC1iYWNrZW5kLWIyYi1pbWFnZXMiLCJrZXkiOiJpbmdlc3Rlci8wMTlkOGJmZi05YjQ5LTcxZjMtOTIzZC0wOTAzNzU1MjBmNjYvZjg1YTc0Y2U3NWJiZDc1YjNkNWQ4OWYxNzUwYTJlYjVmNWEwZTRmZWQwMDA2ODg1YWU5YTc1MTc4ZTc0YjU3Yy5qcGVnIiwiYnJhbmQiOiJwcm9wZXJhdGkiLCJlZGl0cyI6eyJyb3RhdGUiOm51bGwsInJlc2l6ZSI6eyJ3aWR0aCI6NjUyLCJoZWlnaHQiOjQ4MCwiZml0IjoiY292ZXIifX19",
       "lat": null,
       "lng": null,
       "added": "",
@@ -1547,398 +1616,76 @@
       "lat": null,
       "lng": null,
       "added": "",
-      "is_new": true
-    },
-    {
-      "id": "ferrero_c8a190916c",
-      "title": "Arrecifes 979 / Castelar Norte",
-      "address": "Arrecifes 979",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7045",
-      "price": 220000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": true,
-      "pb_bath": true,
-      "state": "Bueno",
-      "desc": "Chalet en zona residencial Castelar Norte a tan solo 10 cuadras de la estación de Castelar.\n\nLa propiedad se desarrolla en una sola planta, al ingresar nos encontramos con un amplio living con ventanal al frente y luego siguiendo por el pasillo distribuidor encontramos una habitación con su placard empotrado, baño completo\n\nCocina comedor semi integrados con barra desayunador y vista al parque.\n \nDos Habitaciones  con baño completo .\n\nGalería- parque libre con pileta y parrilla - garage cubierto y baño exterior.\n\nValor libre de escritura para el vendedor \n\nApto crédito",
-      "image": null,
-      "lat": -34.7946226,
-      "lng": -58.2663495,
-      "added": "",
       "is_new": false
     },
     {
-      "id": "ferrero_224946be63",
-      "title": "Arias / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7155",
-      "price": 170000,
-      "beds": null,
-      "baths": null,
+      "id": "zonaprop_86b25063a5",
+      "title": "345 m² tot.\n4 amb.\n3 dorm.\n3 baños\n2 coch.",
+      "address": "Haras Miryam, Ituzaingó",
+      "zona": "Ituzaingó Norte",
+      "portal": "ZonaProp",
+      "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclcain-casa-4-amplios-ambientes-en-haras-miryam-58417170.html?n_src=Listado&n_pills=Quincho&n_pg=1&n_pos=3",
+      "price": 174900,
+      "beds": 3,
+      "baths": 3,
       "garage": null,
       "sup_total": null,
       "sup_cub": null,
       "pb_bed": false,
       "pb_bath": false,
       "state": "Bueno",
-      "desc": "Chalet de uso mixto (comercial/vivienda) en zona exclusiva de Castelar Norte sobre Avenida Arias.\n\nLa propiedad cuenta con jardín al frente - garage con posibilidad de convertirlo en sector de oficina con dos preinstalaciones de aire acondicionado - gran living comedor - toilette - dos dormitorios/despachos - cocina - baño completo - patio con lavadero semi cubierto.\n\nTotalmente refaccionada a nuevo (instalaciones principales y accesorias de agua - luz - gas)",
-      "image": null,
-      "lat": null,
-      "lng": null,
+      "desc": "345 m² tot.\n4 amb.\n3 dorm.\n3 baños\n2 coch.",
+      "image": "https://imgar.zonapropcdn.com/avisos/1/00/58/41/71/70/360x266/2056237569.jpg?isFirstImage=true",
+      "lat": -34.6097562,
+      "lng": -58.695963,
       "added": "",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "ferrero_2ac990cad2",
-      "title": "Navarro 2302 / Castelar Norte",
-      "address": "Navarro 2302",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7108",
-      "price": 190000,
+      "id": "zonaprop_4eb53117d4",
+      "title": "780 m² tot.\n4 amb.\n3 dorm.\n2 baños\n1 coch.",
+      "address": "Ituzaingó Norte, Ituzaingó",
+      "zona": "Ituzaingó Norte",
+      "portal": "ZonaProp",
+      "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclcain-casa-en-venta-en-ituzaingo-con-piscina-y-quincho.-58562343.html?n_src=Listado&n_pills=Parrilla&n_pg=1&n_pos=14",
+      "price": 260000,
+      "beds": 3,
+      "baths": 2,
+      "garage": null,
+      "sup_total": null,
+      "sup_cub": null,
+      "pb_bed": false,
+      "pb_bath": false,
+      "state": "Bueno",
+      "desc": "780 m² tot.\n4 amb.\n3 dorm.\n2 baños\n1 coch.",
+      "image": "https://imgar.zonapropcdn.com/avisos/1/00/58/56/23/43/360x266/2038336160.jpg?isFirstImage=true",
+      "lat": -34.6582543,
+      "lng": -58.6671803,
+      "added": "",
+      "is_new": true
+    },
+    {
+      "id": "zonaprop_97ab29ab73",
+      "title": "862 m² tot.\n5 amb.\n4 dorm.\n2 baños\n1 coch.",
+      "address": "Ituzaingó Norte, Ituzaingó",
+      "zona": "Ituzaingó Norte",
+      "portal": "ZonaProp",
+      "url": "https://www.zonaprop.com.ar/propiedades/clasificado/veclcain-venta-chalet-5-amb-sobre-lote-doble-en-ituzaingo-norte-57414585.html?n_src=Listado&n_pills=Quincho&n_pg=1&n_pos=21",
+      "price": 229000,
       "beds": 4,
       "baths": 2,
       "garage": null,
       "sup_total": null,
       "sup_cub": null,
-      "pb_bed": true,
-      "pb_bath": true,
-      "state": "Bueno",
-      "desc": "Casa desarrollada en una sola planta a tan solo 3 cuadras de Shopping Plaza Oeste la cual \nconsta de un amplio Living comedor con vista al parque, amplia cocina totalmente instalada semi integrada con el comedor muebles bajo mesada y alacenas, 4 dormitorios con placard, 2 baños completos, lavadero, amplio garaje, cochera semicubierta, parque con pileta de natación, quincho con parrilla semicubierto, habitación auxiliar. \n\nLas medidas indicadas son aproximadas y al sólo efecto orientativo, las medidas reales surgirán del título de propiedad respectivo. El precio del inmueble puede ser modificado sin previo aviso. Fotos de carácter no contractual.",
-      "image": null,
-      "lat": -34.5901856,
-      "lng": -58.4882272,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_f770486849",
-      "title": "LUCERO al 1073 / Ituzaingo Norte",
-      "address": "",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7410",
-      "price": 220000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
       "pb_bed": false,
       "pb_bath": false,
       "state": "Bueno",
-      "desc": "Amplio Chalet ubicado en zona residencial de Ituzaingo Norte y desarrollado totalmente en planta baja. Cuenta con jardín al frente con rejas y Garaje en desnivel para dos vehiculos. Al ingreso nos encontramos con un espectacular living y comedor de aproximadamente 60m2 y una cocina semi integrada con gran isla y amoblamientos de primera en bajo mesada y alacena completa, lavadero cubierto. En el ala privada cuenta con baño completo, dos dormitorios secundarios y un tercer dormitorio con segundo baño en suite. A la salida de la cocine se accede a un patio que da al parque libre con pileta y parrilla. Precio libre del gasto de escritura para el vendedor.\n\nLas medidas y superficies son aproxima",
-      "image": null,
-      "lat": null,
-      "lng": null,
+      "desc": "862 m² tot.\n5 amb.\n4 dorm.\n2 baños\n1 coch.",
+      "image": "https://imgar.zonapropcdn.com/avisos/1/00/57/41/45/85/360x266/2007624833.jpg?isFirstImage=true",
+      "lat": -34.6582543,
+      "lng": -58.6671803,
       "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_a6204474ad",
-      "title": "LAS HERAS al 1714 / Ituzaingo Norte",
-      "address": "",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-6709",
-      "price": 220000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Muy Bueno",
-      "desc": "HERMOSO CHALET ESTILO INGLES UBICADO EN ZONA RESIDENCIAL DE ITUZAINGO NORTE CON MUY BUEN ACCESO A AUTOPISTA Y ARTERIAS PRINCIPALES DESARROLLADO EN DOS PLANTAS.\n\nEN PLANTA BAJA CUENTA CON RECEPCIÓN, AMPLIO LIVING COMEDOR CON HOGAR, TOILETTE, COMEDOR DIARIO Y COCINA AMOBLADA CON BAJO MESADA Y ALACENA COMPLETA, LAVADERO CUBIERTO, GARAJE, PARQUE LIBRE CON HERMOSA VEGETACIÓN, PISCINA Y CUARTO UTILERO.\n\nEN PLANTA ALTA CUENTA CON UN AMPLIO DORMITORIO PRINCIPAL, BAÑO COMPLETO COMPARTIMENTADO, SEGUNDO DORMITORIO CON PLACARD Y UN TERCER DORMITORIO CON VESTIDOR.\n\nSE DESTACA LA PROPIEDAD POR SU ESTILO ANTIGUO Y LA CALIDEZ DE SUS AMBIENTES CON TERMINACIONES EN MADERA EN TODOS SUS AMBIENTES. \n\n*La propied",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_1a6df16fe3",
-      "title": "SARMIENTO al 2748 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-6808",
-      "price": 250000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": true,
-      "state": "Bueno",
-      "desc": "IMPORTANTE PROPIEDAD SOBRE LOTE PROPIO IDEAL Y EN ESPECTACULAR ZONA DE CASTELAR NORTE SOBRE CALLE SARMIENTO, IDEAL PARTICULAR O INVERSOR. SE TRATA DE 3 UNIDADES DESARROLLADAS EN DOS PLANTAS Y SOBRE UN LOTE PROPIO DE 8,66 DE FRENTE POR 36,4 DE FONDO Y UN GRAN PARQUE LIBRE. \n\nUNIDAD 1: LOCAL EN PLANTA BAJA DE APROXIMADAMENTE 3 METROS DE FRENTE POR 12 METROS DE FONDO CON BAÑO INSTALADO. \n\nUNIDAD 2: LOCAL EN PLANTA BAJA DE APROXIMADAMENTE 4 METROS DE FRENTE POR 10 METROS DE FONDO CON BAÑO INSTALADO.\n\nUNIDAD 3. GRAN DEPARTAMENTO EN PRIMER PISO POR ESCALERA QUE CUENTA CON UNA AMPLIA COCINA COMEDOR BIEN AMOBLADA CON BAJO MESADA Y ALACENA COMPLETA, GRAN LIVING COMEDOR SEPARADO DE LA COCINA, PATIO TE",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_7e399e5808",
-      "title": "CRISOLOGO LARRALDE al 1995 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7134",
-      "price": 245000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "GRAN CHALET A REFACCIONAR UBICADO EN ZONA SUPER RESIDENCIAL DE CASTELAR NORTE A SOLO 8 CUADRAS DE LA ESTACIÓN.\n\nSE ENCUENTRA DESARROLLADO EN DOS PLANTAS SOBRE UN LOTE EN ESQUINA DE 262 M2 Y CUENTA CON UN AMPLIO JARDÍN AL FRENTE CON REJAS, LIVING COMEDOR EN DESNIVEL CON HOGAR, COCINA Y COMEDOR DIARIO AMOBLADA CON BAJO MESADA Y ALACENA COMPLETA, LAVADERO CUBIERTO, BAÑO, UN DORMITORIO, GRAN GARAJE DOBLE SOTERRADO Y PATIO CON JARDÍN Y PARRILLA.\nEN PLANTA ALTA CUENTA CON DOS DORMITORIOS SECUNDARIOS, Y UNA GRAN SUITE CON ANTE DORMITORIO, AMPLIO BAÑO COMPLETO Y BALCÓN. AMPLIO ALTILLO EN UNA TERCER PLANTA.\n\nPRECIO LIBRE DEL GASTO DE ESCRITURA PARA EL VENDEDOR. TODOS LOS SERVICIOS!\n\nLas medidas y sup",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_5b57bfdeb3",
-      "title": "Mar Chiquita al 2989 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-6494",
-      "price": 170000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Excelente",
-      "desc": "Propiedad tipo Chalet construida en dos plantas, ubicada en zona súper residencial de Castelar Norte a pocas cuadras del centro comercial.\n\nCuenta con garage para un vehículo grande (mas lugar de guardado), living comedor, cocina comedor integrada instalada completa con salida al parque - dos dormitorios amplios con placard - baño completo - parque y patio con parrilla. \nEn primer piso gran recibidor ideal para sector de estudio o playroom - dormitorio en suite con vestidor y terraza. PLANO COMPLETO APTO CREDITO!\n\nCaracterísticas: Construcción solida y en excelente estado de conservación - cuenta con todos los servicios.",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_64ee397d79",
-      "title": "Trole al 1425 / Ituzaingo Norte",
-      "address": "",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-6777",
-      "price": 178500,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Excelente",
-      "desc": "Casa de estilo, de solida construcción doble pared con ladrillo visto natural, a estrenar, ubicado en zona residencial de Ituzaingó Norte a pocas cuadras de centro comercial.\n\nLa propiedad cuenta con jardín al frente parquizado y entrada de coche para varios vehículos - amplio living - comedor diario comunicado con la cocina a través de barra desayunadora. La cocina está totalmente instalada con horno y anafe a gas marca Domec, amoblamiento de bajo mesada mas alacena y mesada de silestone, con salida independiente hacia el parque - toilette - por escalera abierta se accede al sector privado de la propiedad, encontrando un baño completo y dos dormitorios amplios con placard,  contando el prin",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_4480962145",
-      "title": "Larralde al 1763 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7019",
-      "price": 175000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": true,
-      "pb_bath": true,
-      "state": "Bueno",
-      "desc": "Chalet de estilo con construcción solida, ubicado en zona residencial exclusiva de Castelar Norte.\n\nLa propiedad cuenta en planta baja con living cocina comedor, dos dormitorios completos y baño completo. En planta alta con entrada independiente se replica las comodidades de planta baja.\n\nCaracterísticas: A reciclar - cuenta con plano de obra aprobado",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_dafc73abfb",
-      "title": "REPUBLICA DEL SALVADOR al 1541 / Ituzaingo Norte",
-      "address": "",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7268",
-      "price": 179000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "Excelente casa ubicada a solo 8 cuadras la estación de San Antonio de Padua. Se trata de una propiedad desarrollada en dos plantas con ambientes amplios y luminosos, destacando su comodidad y buena distribución. Cuenta con jardín al frente con rejas, portón y entrada de auto, ingresando nos encontramos con una oficina/dormitorio y el dormitorio principal en suite con un lindo vestidor y baño completo, toilette de recepción y accedemos a un espectacular living comedor muy amplio con hogar y vista al parque, semi integrada la cocina con amoblamientos de bajo mesada y alacena completa desde alli accedemos a un gran garaje para dos autos que hace las veces de quincho con parrilla y a continuació",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_2999a85e6b",
-      "title": "MARQUES DE LORETO al 2931 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7082",
-      "price": 225000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": true,
-      "state": "Bueno",
-      "desc": "CHALET A REMODELAR EN ESPECTACULAR ZONA DEL CORAZON DE CASTELAR NORTE A SOLO 2 CUADRAS DE AVENIDA SARMIENTO Y 9 DE LA ESTACIÓN.\n\nEL CHALET SE ENCUENTRA DESARROLLADO EN DOS PLANTAS SOBRE UN GRAN LOTE DE 8,66 DE FRENTE POR 53,21 METROS DE FONDO. CUENTA CON JARDÍN AL FRENTE CON REJAS Y GARAJE PARA DOS AUTOS, SE INGRESA A UN GRAN LIVING COMEDOR CON PISOS TARUGADOS CON PEQUEÑO DESNIVEL CON HOGAR, DOS DORMITORIOS EN PLANTA BAJA CON PLACARD, AMPLIO BAÑO COMPLETO, COCINA Y COMEDOR DIARIO AMOBLADA CON BAJO MESADA Y ALACENA, ANAFE Y HORNO EMPOTRADO MARCA DOMEC. A CONTINUACIÓN DE LA COCINA SE ACCEDE A UNA HERMOSA GALERÍA VIDRIADA CON VISTA A UN GRAN PARQUE CON PISCINA, QUINCHO CON PARRILLA, LAVADERO Y ",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_ab7f372345",
-      "title": "JOSE ARTIGAS al 675 / Ituzaingo Norte",
-      "address": "",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7132",
-      "price": 188000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "Apto crédito! \n\nHermoso chalet ubicado en Ituzaingo Norte, zona residencial del barrio Villa Ariza. \n\nEl chalet esta desarrollado en dos plantas, sobre un lote de 8,66 de frente por 30,31 de fondo y cuenta con jardín al frente con rejas y garaje para dos autos, un amplio living comedor con hogar a leña,  a continuación  cocina comedor diario con desayunador, baño completo y un dormitorio con placard.\n\nEn planta alta nos encontramos con un hall distribuidor que da acceso a un dormitorio principal con vestidor y baño en suite, dos dormitorios adicionales con placares empotrados, tercer baño completo compartimentado y una amplia baulera.\n\nA la salida de la cocina tenemos un parque amplio con pi",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_6c8cd210e4",
-      "title": "Barcala 1063 / Ituzaingo Norte",
-      "address": "Barcala 1063",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7352",
-      "price": 235000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "Hermosa casa apto crédito desarrollada en dos plantas ubicada en Ituzaingó Norte cercana a varias arterias de comunicación con salida hacia acceso como así también a centros comerciales .\nAl ingresar nos encontramos con un amplio y luminoso living, toilette y una cocina comedor integrados con vista al parque brindando una coneccion directa con la galería techada, Cuenta también con un espacio lavadero que se puede hacer ingreso directo desde la cocina como desde el garage cubierto.\n\nEn planta alta se encuentran dos habitaciones con vista al parque , baño completo y una tercera habitación en suite con vestidor y baño a terminar ( están hechas la conecciones , falta colocación de artefactos y ",
-      "image": null,
-      "lat": -34.6254421,
-      "lng": -58.4078825,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_0fbd15a5c2",
-      "title": "CAMACUA al 1569 / Ituzaingo Norte",
-      "address": "",
-      "zona": "Ituzaingó Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7300",
-      "price": 157600,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "COMPLEJO CAMACUA\n\n\nCOMPLEJO DE 18 ViViENDAS 3 y 4 AMBIENTES\n\nEste proyecto propone 18 viviendas organizadas en dos bloques, con un gran espacio central que funciona como eje del conjunto.\nAdemás de ofrecer privacidad entre las unidades, este espacio integra áreas verdes, juegos para niños y cocheras, generando un entorno funcional y a la vez cálido y comunitario. El diseño apuesta por una estética minimalista con materiales como la madera y grandes aberturas que permiten una excelente entrada de luz natural. La vegetación acompaña todo el proyecto, aportando frescura y\nun ambiente sereno y agradable\n\nUna propuesta pensada para vivir bien, con confort, naturaleza y comunidad.\n\n\nUbicado estrat",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_34dc5def9d",
-      "title": "CADIZ al 3378 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-7274",
-      "price": 190000,
-      "beds": 3,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "HERMOSO CHALET COLONIAL EN CASTELAR NORTE \n\nCOCHERA Y JARDIN AL FRENTE \nAMPLIO LIVING COMEDOR CON COCINA COMEDOR DIARIO EN AMBIENTE INTEGRADO\nBAÑO COMPLETO, 3 DORMITORIOS, UNO DE ELLOS EN SUITE.\nSALIENDO DE LA COCINA COMEDOR DIARIO ACCEDES A UNA QUINCHO/GALERIA CUBIERTA CON VENTANALES HACIA EL PARQUE, CON PARRRILLA Y LAVADERO CON BAÑO.\nPARQUE LIBRE CON PISCINA DE 100M2",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
-    },
-    {
-      "id": "ferrero_3ecec57fd4",
-      "title": "SANTA ROSA al 65 / Castelar Norte",
-      "address": "",
-      "zona": "Castelar Norte",
-      "portal": "Ferrero",
-      "url": "https://inmobiliariaferrero.com/ficha/105-6297",
-      "price": 250000,
-      "beds": null,
-      "baths": null,
-      "garage": null,
-      "sup_total": null,
-      "sup_cub": null,
-      "pb_bed": false,
-      "pb_bath": false,
-      "state": "Bueno",
-      "desc": "CHALET EN ESPECTACULAR UBICACIÓN IDEAL EMPRENDIMIENTO COMERCIAL/PROFESIONAL A SOLO 3 CUADRAS DE LA ESTACIÓN DE ITUZAINGO Y SOBRE AVENIDA SANTA ROSA. EL CHALET SE DESARROLLA SOBRE UN GRAN LOTE DE 11,5 METROS DE FRENTE POR APROXIMADAMENTE 59 METROS DE FONDO Y CUENTA CON JARDÍN AL FRENTE CON REJAS Y ENTRADA PASANTE PARA MULTIPLES VEHICULOS - AMPLIO LIVING COMEDOR - COCINA COMEDOR - BAÑO COMPLETO Y COMEDOR DIARIO/JARDÍN DE INVIERNO CON VENTANALES Y VISTA AL PARQUE. EN UNA SEGUNDA PLANTA CUENTA CON UN HALL DISTRIBUIDOR - BAÑO COMPLETO Y CUATRO DORMITORIOS CON PLACARD (DE LOS CUALES DOS DE ELLOS FUERON UNIFICADOS GENERANDO UN TERCER DORMITORIO MUY GRANDE). ESPECTACULAR PARQUE LIBRE CON GARAJE/CUAR",
-      "image": null,
-      "lat": null,
-      "lng": null,
-      "added": "",
-      "is_new": false
+      "is_new": true
     }
   ]
 }
